@@ -1,6 +1,13 @@
 # REQUEST COTAÇAO BRL
 
 Request BRL
+```shell
+   BTC - Bitcoin
+   USD - Dólar
+   EUR - Euro
+   XUG - Ouro/Gold
+   XAG - Prata/Silver
+   ```
 
 ## Prerequisites
 
