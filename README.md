@@ -24,3 +24,9 @@ Python 3.5>
     ```shell
    pip install request
    ```
+   
+ 3. APIs:
+    ```shell
+    metals-api
+    awesomeapi
+   ```
